@@ -5,15 +5,15 @@ The project begins with an initial data exploration to understand the structure 
 
 Next, the project uses data visualization to understand the distribution and relationships within the dataset. This is done using Matplotlib and Seaborn to create various types of plots, such as bar charts, scatter plots, and histograms. Examples of data visualizations that the project might create include:
 
-A count plot showing Count Sub-Category sales
-A bar chart showing sub-categories by profit
-A count plot showing Count Category sales
-A bar chart showing sales by region
-A joint plot showing the relationship between Discount and profit
-A count plot showing the Count Ship Mode used
-A scatter plot visualizing the relationship between sales and profit
-A histogram showing the distribution of profit values
-The project also examines the correlation between numerical variables to understand how they relate to each other. This is done using the correlation matrix and plotting it as a heatmap.
+#### A count plot showing Count Sub-Category sales
+#### A bar chart showing sub-categories by profit
+#### A count plot showing Count Category sales
+#### A bar chart showing sales by region
+#### A joint plot showing the relationship between Discount and profit
+#### A count plot showing the Count Ship Mode used
+#### A scatter plot visualizing the relationship between sales and profit
+#### A histogram showing the distribution of profit values
+#### The project also examines the correlation between numerical variables to understand how they relate to each other. This is done using the correlation matrix and plotting it as a heatmap.
 
 Finally, the project summarizes the findings of the analysis and discusses the implications for the superstore. This might include identifying the most profitable products and regions or identifying areas where the supermarket can improve its performance.
 
